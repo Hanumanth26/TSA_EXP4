@@ -3,6 +3,7 @@
 Developed by: hanumanth rao . A
 Reg No:212221240016
 ```
+### DATE: 09:09:24
 
 ### AIM:
 To implement ARMA model in python.
